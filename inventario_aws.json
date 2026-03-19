@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-03-18T23:18:54.460829+00:00",
+  "region": "us-east-1",
+  "account_id": "508718965170",
+  "ec2": [
+    {
+      "instance_id": "i-00c7ac4cb63e0c57a",
+      "state": "running",
+      "instance_type": "t2.micro",
+      "public_ip": "54.204.226.26",
+      "private_ip": "172.31.21.241"
+    }
+  ],
+  "s3": [
+    {
+      "name": "clasebotos32026-inventario",
+      "creation_date": "2026-03-18T23:14:16+00:00"
+    }
+  ],
+  "rds": [],
+  "lambda": [],
+  "summary": {
+    "total_ec2": 1,
+    "total_s3": 1,
+    "total_rds": 0,
+    "total_lambda": 0
+  }
+}
